@@ -1,18 +1,20 @@
 Metadata-Version: 2.1
-Name: package-tutorial-VCANTIN
-Version: 0.0.1
-Summary: Tutorial package
+Name: core
+Version: 1.0.1
+Summary: Cyberpublicity Core
 Author-email: Vincent Cantin Bellemare <vcantin@cyberpublicity.com>
 Project-URL: Homepage, https://github.com/pypa/vcanttinsampleproject
 Project-URL: Bug Tracker, https://github.com/pypa/vcantinsampleproject/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.7
+Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENCE
 
 # Example Package
+ln -s /packages/core/src/core /code/core
+
 
 This is a simple example package. You can use
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)

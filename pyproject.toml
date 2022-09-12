@@ -1,13 +1,13 @@
 [project]
-name = "package_tutorial_VCANTIN"
-version = "0.0.1"
+name = "core"
+version = "1.0.1"
 authors = [
   { name="Vincent Cantin Bellemare", email="vcantin@cyberpublicity.com" },
 ]
-description = "Tutorial package"
+description = "Cyberpublicity Core"
 readme = "README.md"
 license = { file="LICENSE" }
-requires-python = ">=3.7"
+requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
