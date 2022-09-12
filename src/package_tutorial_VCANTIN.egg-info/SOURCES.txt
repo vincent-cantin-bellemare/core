@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+src/package_tutorial_VCANTIN/__init__.py
+src/package_tutorial_VCANTIN/example.py
+src/package_tutorial_VCANTIN.egg-info/PKG-INFO
+src/package_tutorial_VCANTIN.egg-info/SOURCES.txt
+src/package_tutorial_VCANTIN.egg-info/dependency_links.txt
+src/package_tutorial_VCANTIN.egg-info/top_level.txt
